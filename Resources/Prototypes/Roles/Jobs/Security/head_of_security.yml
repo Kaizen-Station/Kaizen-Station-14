@@ -6,13 +6,13 @@
   requirements:
     - !type:RoleTimeRequirement
       role: JobWarden
-      time: 54000 #15 hrs # ADT-RoleTime
+      time: 27000 #15 hrs # ADT-RoleTime
 #    - !type:RoleTimeRequirement
 #      role: JobSecurityOfficer
 #      time: 36000 #10 hrs
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 198000 #55 hrs # ADT-RoleTime
+      time: 99000 #55 hrs # ADT-RoleTime
 #    - !type:OverallPlaytimeRequirement
 #      time: 144000 #40 hrs
       # ADT Restrict Start

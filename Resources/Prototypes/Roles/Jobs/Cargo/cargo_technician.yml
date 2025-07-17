@@ -5,7 +5,7 @@
   playTimeTracker: JobCargoTechnician
   requirements:
     - !type:OverallPlaytimeRequirement
-      time: 14400 # ADT-PlaytimeRequirement = 4 hrs
+      time: 7200 # ADT-PlaytimeRequirement = 4 hrs
   startingGear: CargoTechGear
   icon: "JobIconCargoTechnician"
   supervisors: job-supervisors-qm
