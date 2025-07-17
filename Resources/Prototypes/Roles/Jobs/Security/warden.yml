@@ -6,7 +6,7 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 198000 #55 hrs # ADT-RoleTime
+      time: 99000 #55 hrs # ADT-RoleTime
   # ADT Restrict Start
     - !type:SpeciesRequirement
       inverted: true
